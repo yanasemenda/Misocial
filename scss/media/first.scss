@@ -1,0 +1,318 @@
+
+@media (max-width: 1590px) {
+	body{
+		overflow-x: hidden;
+	}
+	header{
+		    width: 1190px;
+    		height: 800px;
+   			background-position: -200px -50px;
+   			margin: 0 auto;
+   			 .block{
+   			 	    margin-top: 70px;
+    				margin-left: 130px;
+   			 }
+	}
+.who-we-are{
+	width: 1190px;
+	height: 950px;
+	.comp{
+   		 top: 54px;
+   		 left: 34px;
+   		 transform: scale(0.9);
+	}
+	.block-2 {
+		right: 210px;
+   		top: 185px
+	}
+	.rg-tx > p {
+		right: 15px;
+   		bottom: 138px;
+	}
+	.lg-rg{
+		right: 49px;
+   		bottom: 70px;
+	}
+	.right-logo{
+   		top: 692px;
+   		left: 779px;
+	}
+}
+.team{
+	width: 1190px;
+	height: 1050px;
+}
+.content {
+    width: 1180px;
+    img{
+    	width: 280px;
+    }
+}
+.bottom{
+	width: 1190px;
+	height: 750px;
+    background-size: 1190px 750px;
+}
+footer{
+	width: 1190px;
+}
+.icons{
+	    margin: -30px 50px 0px 0;
+}
+.line{
+	width: 1090px;
+}
+
+}
+
+@media (max-width: 1190px) {
+		body{
+		overflow-x: hidden;
+	}
+	header{
+		    width: 960px;
+    		height: 745px;
+   		    background-position: -314px -50px;
+   			margin: 0 auto;
+   			overflow: hidden;
+   			.menu {
+   				ul{
+   					    margin-top: -50px;
+   						margin-right: 156px;
+   						font-size: 13px;
+   				}
+   			}
+   			.btn-t button{
+   				    transform: scale(0.7);
+   					margin-right: -50px;
+   			}
+   			 .block{
+   			 	        margin-top: 100px;
+    					margin-left: 112px;
+    					transform: scale(0.95);
+   			 }
+   			 .circle{
+   			 	    bottom: 20px;
+    				left: 50%;
+    				transform: scale(0.8);
+   			 }
+	}
+.who-we-are{
+	width: 960px;
+	height: 950px;
+	.comp{
+   		 top: 117px;
+   		 left: -55px;
+   		 transform: scale(0.6);
+	}
+	.block-2 {
+		right: 210px;
+   		top: 185px
+	}
+	.rg-tx > p {
+		right: 15px;
+   		bottom: 264px;
+	}
+	.lg-rg{
+		right: 49px;
+   		bottom: 191px;
+	}
+	.right-logo{
+		top: 692px;
+    	left: 581px;
+    	transform: scale(0.8);
+	}
+	.bg-left{
+		    margin: 1050px 0px 0px -2090px;
+		    transform: rotate(122deg);
+	}
+}
+.team{
+	width: 960px;
+	height: 940px;
+}
+.content {
+    width: 924px;
+    img{
+    	width: 215px;
+    }
+}
+.bottom{
+	width: 960px;
+	height: 600px;
+    background-size: 960px 600px;
+}
+footer{
+	width: 960px;
+}
+.bot-nav{
+	.menu{
+		ul{
+			    font-size: 13px;
+   				margin-top: -50px;
+    			margin-right: 150px;
+		}
+	}
+}
+.lst-btn{
+	.btn-t{
+		button{
+			transform: scale(0.7);
+    		margin-right: -60px;
+		}
+	}
+}
+.icons{
+	    margin: -30px 15px 0px 0;
+}
+.line{
+
+	width: 895px;
+}
+}
+
+@media (max-width: 992px) {
+			body{
+		overflow-x: hidden;
+	}
+	header{
+		    width: 755px;
+    		height: 745px;
+   		    background-position: -314px -50px;
+   			margin: 0 auto;
+   			.menu {
+   				ul{
+   					    margin-top: -50px;
+   						margin-right: 156px;
+   						font-size: 13px;
+   				}
+   			}
+   			.btn-t button{
+   				    transform: scale(0.7);
+   					margin-right: -50px;
+   			}
+   			 .block{
+   			 	       margin-top: 40px;
+   					   margin-left: 55px;
+    					transform: scale(0.95);
+   			 }
+   			 .circle{
+   			 	    bottom: 20px;
+    				left: 50%;
+    				transform: scale(0.8);
+   			 }
+	}
+	.top-nav{
+	.menu{
+			ul {
+			    font-size: 13px;
+   				margin-top: 45px;
+    			margin-right: 140px;
+					li{
+						margin-left: 30px;
+					}
+			}
+	}
+}
+.btn-t {
+    right: 50px;
+    top: 30px;
+}
+
+/* who we are */
+.who-we-are{
+	width: 755px;
+	height: 820px;
+	.comp{
+   		     top: 82px;
+   			 left: -121px;
+   		 	 transform: scale(0.55);
+	}
+	.block-2 {
+		    right: 120px;
+    		top: 232px;
+    		transform: scale(0.75);
+	}
+	.rg-tx > p {
+		right: 15px;
+   		bottom: 180px;
+	}
+	.lg-rg{
+		right: 49px;
+   		bottom: 106px;
+	}
+	.right-logo{
+		top: 645px;
+    	left: 500px;
+    	transform: scale(0.8);
+	}
+	.bg-left{
+		    margin: 1050px 0px 0px -2090px;
+		    transform: rotate(122deg);
+	}
+}
+/* team */
+.team{
+	width: 755px;
+	height: 810px;
+}
+.content {
+    width: 720px;
+    .card {
+    	width: 160px;
+    	  p{
+    	font-size: 11px !important;
+    }
+    span{
+    	font-size: 11px !important;
+    }
+    }
+    img{
+    	width: 160px;
+    }
+}
+.bottom{
+	width: 755px;
+	height: 600px;
+    background-size: 755px 600px;
+}
+footer{
+	width: 750px;
+}
+.logo{
+	    transform: scale(0.7);
+   		 margin: 0px 0 0px -155px;
+}
+.bot-nav{
+	.menu{
+			ul {
+			    font-size: 13px;
+   				margin-top: 45px;
+    			margin-right: 140px;
+					li{
+						margin-left: 30px;
+					}
+			}
+	}
+}
+.lst-btn .btn-t {
+    right: 50px;
+    top: 30px;
+}
+.lf-rg{
+	padding: 0px;
+	>p{
+		    margin-top: 30px;
+		    margin-left: 15px;
+
+	}
+}
+.icons{
+	    margin: -30px 15px 0px 0;
+}
+.line{
+
+	width: 720px;
+}
+}
+
